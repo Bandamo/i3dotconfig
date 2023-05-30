@@ -1,0 +1,8 @@
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-OZCS51.desktop
+message/rfc822=userapp-Thunderbird-OZCS51.desktop
+x-scheme-handler/mid=userapp-Thunderbird-OZCS51.desktop
+
+[Added Associations]
+x-scheme-handler/mailto=userapp-Thunderbird-OZCS51.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-OZCS51.desktop;
